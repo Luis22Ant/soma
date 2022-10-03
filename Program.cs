@@ -4,10 +4,15 @@
     {
         static void Main(string[] args)
         {
-            int a, b, soma;
-            a = int.Parse(Console.ReadLine());
-            b = int.Parse(Console.ReadLine());
-            soma = a - b;
+            int s, c, soma;
+            s = int.Parse(Console.ReadLine());
+            c = int.Parse(Console.ReadLine());
+            soma = a + b;
+            Console.WriteLine(soma);
+            int s, c, soma;
+            s = int.Parse(Console.ReadLine());
+            c = int.Parse(Console.ReadLine());
+            soma = a + b;
             Console.WriteLine(soma);
         }
     }
