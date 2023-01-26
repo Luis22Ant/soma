@@ -6,7 +6,7 @@ on:
       - master
   schedule:
     # Run at 12:00 on working days
-   - cron:  '35 14 * * *'
+   - cron:  '44 16 * * *'
    
 jobs:
   report:
@@ -18,6 +18,6 @@ jobs:
       - name: Commit report
         run: |
           git config --global user.name 'Luis22Ant'
-          git config --global user.email 'luisengenhariaeletronica@gmail.com'
+          git config --global user.email 'Luis22Ant@users.noreply.github.com'
           git commit -am "Automated report"
           git push
