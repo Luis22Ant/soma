@@ -1,0 +1,23 @@
+name: soma
+
+on:
+  push:
+    branches:
+      - master
+  schedule:
+    # Run at 12:00 on working days
+   - cron:  '35 14 * * *'
+   
+jobs:
+  report:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Create report file
+        run: date +%s > report.txt
+      - name: Commit report
+        run: |
+          git config --global user.name 'Luis22Ant'
+          git config --global user.email 'luisengenhariaeletronica@gmail.com'
+          git commit -am "Automated report"
+          git push
