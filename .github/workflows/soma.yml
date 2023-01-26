@@ -6,7 +6,7 @@ on:
       - master
   schedule:
     # Run at 12:00 on working days
-   - cron:  '44 16 * * *'
+   - cron:  '45 16 * * *'
    
 jobs:
   report:
