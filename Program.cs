@@ -4,10 +4,10 @@
     {
         static void Main(string[] args)
         {
-            int s, c, soma;
-            s = int.Parse(Console.ReadLine());
-            c = int.Parse(Console.ReadLine());
-            soma = a - b;
+            int a, b, soma;
+            a = Convert.ToInt32(Console.ReadLine());
+            b = Convert.ToInt32(Console.ReadLine());
+            soma = a+b;
         }
     }
 }
