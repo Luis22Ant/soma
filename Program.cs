@@ -10,7 +10,6 @@
             b = Convert.ToInt32(Console.ReadLine()); 
             soma = a-b+a+b; 
             sub=a-b;
-            aaaa
         }    
     }
 }
