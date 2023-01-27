@@ -9,8 +9,8 @@
             a = Convert.ToInt32(Console.ReadLine());
             b = Convert.ToInt32(Console.ReadLine()); 
             soma = a-b+a+b; 
-            sub=a-b
-            
+            sub=a-b;
+            aaaa
         }    
     }
 }
