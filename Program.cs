@@ -11,6 +11,7 @@
             soma = a+b+a-b;
             sub=a+b-b;
             //funciounou
+            //tropa do ainda
         }
     }
 }
