@@ -1,0 +1,15 @@
+C:\Users\Admin\Source\Repos\Luis22Ant\soma\bin\Debug\net6.0\Visual.exe
+C:\Users\Admin\Source\Repos\Luis22Ant\soma\bin\Debug\net6.0\Visual.deps.json
+C:\Users\Admin\Source\Repos\Luis22Ant\soma\bin\Debug\net6.0\Visual.runtimeconfig.json
+C:\Users\Admin\Source\Repos\Luis22Ant\soma\bin\Debug\net6.0\Visual.dll
+C:\Users\Admin\Source\Repos\Luis22Ant\soma\bin\Debug\net6.0\Visual.pdb
+C:\Users\Admin\Source\Repos\Luis22Ant\soma\obj\Debug\net6.0\Visual.csproj.AssemblyReference.cache
+C:\Users\Admin\Source\Repos\Luis22Ant\soma\obj\Debug\net6.0\Visual.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Source\Repos\Luis22Ant\soma\obj\Debug\net6.0\Visual.AssemblyInfoInputs.cache
+C:\Users\Admin\Source\Repos\Luis22Ant\soma\obj\Debug\net6.0\Visual.AssemblyInfo.cs
+C:\Users\Admin\Source\Repos\Luis22Ant\soma\obj\Debug\net6.0\Visual.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Source\Repos\Luis22Ant\soma\obj\Debug\net6.0\Visual.dll
+C:\Users\Admin\Source\Repos\Luis22Ant\soma\obj\Debug\net6.0\refint\Visual.dll
+C:\Users\Admin\Source\Repos\Luis22Ant\soma\obj\Debug\net6.0\Visual.pdb
+C:\Users\Admin\Source\Repos\Luis22Ant\soma\obj\Debug\net6.0\Visual.genruntimeconfig.cache
+C:\Users\Admin\Source\Repos\Luis22Ant\soma\obj\Debug\net6.0\ref\Visual.dll
